@@ -20,13 +20,31 @@ text-decoration: none;
 a:hover{
 color: hotpink;
 background-color: blueviolet;
-border: 1px black dashed;    
+border: 1px black dashed;
+padding: 1px;
+margin: 1px;    
 }
 
 
 h1 {
 color: blue; 
 font-style: italic;
+font-size: 30px;
+}
+
+h2 {
+    color: blue; 
+    font-style: italic;
+    font-size: 15px;
+    }
+
+table, tr, td {
+    border: 1px solid;
+}
+
+ul {
+    color: black;
+    font-size: 10px;
 }
 
 /* CSS classes */
