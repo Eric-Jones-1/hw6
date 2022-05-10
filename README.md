@@ -13,14 +13,16 @@ A website that has my peronsal projects and ways to find me.
 
 ## General Information
 - It helps people come and see what kinds of skills I have and what experience I can offer.
-- I hope to drive people to my website and create oportunities in the future.
+- I hope to drive people to my website and create oportunities in the future from this.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies/Languages Used
-- Tech 1 - Visual 
-- Tech 2 - Azure
-- Tech 3 - HTML
+- Visual 
+- Azure
+- HTML
+- CSS
+- Google Analytics
 
 
 ## Features
