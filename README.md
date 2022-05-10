@@ -3,7 +3,7 @@ A website that has my peronsal projects and ways to find me.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies/Languagues Used](#technologies/Languages-used)
+* [Technologies and Languagues Used](#technologies-and-languages-used)
 * [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -17,7 +17,7 @@ A website that has my peronsal projects and ways to find me.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies/Languages Used
+## Technologies and Languages Used
 - Visual 
 - Azure
 - HTML
